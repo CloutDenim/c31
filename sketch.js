@@ -82,12 +82,12 @@ function draw() {
   //    particles[j];
   //  }
 
-  // for (var j = 0; j < particles.length; j++) {
-  //    particles[j].display;
-  //  }
+  for (var j = 0; j < particles.length; j++) {
+     particles[j].display;
+   }
 
-  for (var j = 0; j++) {
-     particles[j].display();
+//   for (var j = 0; j++) {
+//      particles[j].display();
    }
 
   // for (var j = 0; j < particles.length; j++) {
